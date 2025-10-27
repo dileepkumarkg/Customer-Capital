@@ -1,0 +1,7 @@
+/home/ubuntu/myapp/out/myapp
+/home/ubuntu/myapp/out/appsettings.Development.json
+/home/ubuntu/myapp/out/appsettings.json
+/home/ubuntu/myapp/out/myapp.dll
+/home/ubuntu/myapp/out/myapp.deps.json
+/home/ubuntu/myapp/out/myapp.runtimeconfig.json
+/home/ubuntu/myapp/out/myapp.pdb
